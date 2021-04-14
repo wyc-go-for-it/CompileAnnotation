@@ -1,0 +1,4 @@
+include ':lib_annotation'
+include ':lib_myProcessor'
+include ':app'
+rootProject.name = "TestProcessor"
